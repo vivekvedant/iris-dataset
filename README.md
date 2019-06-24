@@ -6,22 +6,25 @@
 Predict the class of the flower based on available attributes.
 
 # Data:
-________________________________________________
-columns:       |  details:
-________________________________________________
-Id             |  SPL-SPW-PTL-PTW(CM) 
-               | (SPL:SepalLengthCm,SPW:SepalWidthCm,PTL:PetalLengthCm,PTW:PetalWidthCm )
-________________________________________________
-SepalLengthCm  | Length of the sepal (in cm)
-__________________________________________________
-SepalWidthCm   | Width of the sepal (in cm)
-__________________________________________________
-PetalLengthCm  | Length of the petal (in cm)
-__________________________________________________
-PetalWidthCm   | Width of the petal (in cm)
-__________________________________________________
-Species        | Species name
-__________________________________________________
+
+| __columns__       |  __details__
+|---------------    |-------------------------------------------------------------------------|
+|Id                 |  SPL-SPW-PTL-PTW(CM)                                                    |
+|                   | (SPL:SepalLengthCm,SPW:SepalWidthCm,PTL:PetalLengthCm,PTW:PetalWidthCm )|
+|                   |                                                                         |
+|SepalLengthCm      | Length of the sepal (in cm)                                             |
+|                   |                                                                         |
+|SepalWidthCm       | Width of the sepal (in cm)                                              |
+|                   |                                                                         |
+|PetalLengthCm      | Length of the petal (in cm)                                             |
+|                   |                                                                         |
+|PetalWidthCm       | Width of the petal (in cm)                                              |
+|                   |                                                                         |
+|Species            | Species name                                                            |
+|
+
+
+
 
 
 # Files :
